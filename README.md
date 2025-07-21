@@ -1,5 +1,4 @@
 # Born2beroot
-# Server Security & WordPress Setup
 
 ## 📝 Proje Açıklaması
 
