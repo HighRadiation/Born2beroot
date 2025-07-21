@@ -120,13 +120,13 @@ Bu proje kapsamında, sanal bir makine üzerinde güvenlik politikaları uygulan
 ## 📚 Referanslar & Örnekler
 
 - [Görsel 1: Monitoring Script Çıktısı](#)  
-  ![image1](image1)
+  ![img1](img/img1.png)
 - [Görsel 2: Rocky Linux Servisler](#)
-  ![image2](image2)
+  ![img1](img/img2.png)
 - [Görsel 3: Debian Servisler](#)
-  ![image3](image3)
+  ![img1](img/img3.png)
 - [Görsel 4: LVM Disk Yapısı](#)
-  ![image4](image4)
+ ![img1](img/img4.png)
 
 ---
 
