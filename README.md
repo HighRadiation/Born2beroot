@@ -52,7 +52,7 @@ Bu proje kapsamında, sanal bir makine üzerinde güvenlik politikaları uygulan
   - IPv4 ve MAC adresi
   - Sudo ile çalıştırılan komut sayısı
 
-  ![image1](image1)
+  ![img1](img/img1.png)
 
 - Script savunmada açıklanmalı ve modifikasyon olmadan durdurulabilmeli (örn. cron kullanımı).
 
@@ -62,14 +62,14 @@ Bu proje kapsamında, sanal bir makine üzerinde güvenlik politikaları uygulan
 - Firewalld (Rocky) veya UFW (Debian) ile yalnızca gerekli portlar açık olmalı.
 - AppArmor (Debian) veya SELinux (Rocky) aktif olmalı.
 
-  ![image2](image2)
-  ![image3](image3)
+  ![img1](img/img2.png)
+  ![img1](img/img3.png)
 
 ### Disk Bölümlendirme
 
 - LVM ile aşağıdaki gibi bir yapılandırma önerilir:
 
-  ![image4](image4)
+  ![img1](img/image4.png)
 
 ## ⭐ Bonus Kısım
 
