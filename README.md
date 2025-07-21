@@ -62,14 +62,14 @@ Bu proje kapsamında, sanal bir makine üzerinde güvenlik politikaları uygulan
 - Firewalld (Rocky) veya UFW (Debian) ile yalnızca gerekli portlar açık olmalı.
 - AppArmor (Debian) veya SELinux (Rocky) aktif olmalı.
 
-  ![img1](img/img2.png)
-  ![img1](img/img3.png)
+  ![img2](img/img2.png)
+  ![img3](img/img3.png)
 
 ### Disk Bölümlendirme
 
 - LVM ile aşağıdaki gibi bir yapılandırma önerilir:
 
-  ![img1](img/image4.png)
+  ![img4](img/img4.png)
 
 ## ⭐ Bonus Kısım
 
@@ -124,11 +124,14 @@ Bu proje kapsamında, sanal bir makine üzerinde güvenlik politikaları uygulan
 - [Görsel 1: Monitoring Script Çıktısı](#)  
   ![img1](img/img1.png)
 - [Görsel 2: Rocky Linux Servisler](#)
-  ![img1](img/img2.png)
+  ![img2](img/img2.png)
 - [Görsel 3: Debian Servisler](#)
-  ![img1](img/img3.png)
+  ![img3](img/img3.png)
 - [Görsel 4: LVM Disk Yapısı](#)
- ![img1](img/img4.png)
+ ![img4](img/img4.png)
+- [Görsel 4: Bonus](#)
+ ![img5](img/img5.png)
+
 
 ---
 
