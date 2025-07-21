@@ -79,6 +79,8 @@ Bu proje kapsamında, sanal bir makine üzerinde güvenlik politikaları uygulan
 - NGINX veya Apache2 hariç, kendi seçtiğiniz bir ekstra servis kurulmalı ve savunmada neden seçtiğiniz açıklanmalı.
 - Ekstra servisler için gerekli portlar açılmalı ve firewall kuralları güncellenmeli.
 
+  ![img1](img/img5.png)
+
 ## 📦 Teslim ve Değerlendirme
 
 - Sadece `signature.txt` dosyası teslim edilmeli. VM dosyası paylaşmak yasak!
