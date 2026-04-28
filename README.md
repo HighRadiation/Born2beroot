@@ -1,12 +1,12 @@
 # Born2beroot
 
-## 📝 Proje Açıklaması
+## Proje Açıklaması
 
 Bu projede, bir Linux sunucusunun güvenliğini sağlamak ve üzerinde WordPress kurmak için gereken tüm adımlar gerçekleştirilecektir. Parola politikalarından disk bölümlendirmesine, firewall yapılandırmasından bonus servis kurulumlarına kadar tüm süreçler titizlikle ele alınacaktır. Proje sonunda, zorunlu gereksinimler hatasız çalışmalı, bonuslar ise ekstra puan için uygulanabilir olmalıdır.
 
 > **"Sunucunuzun güvenliği, en zayıf halkası kadar güçlüdür."**
 
-## 📋 İçindekiler
+##  İçindekiler
 
 1. [Giriş](#giriş)
 2. [Zorunlu Gereksinimler](#zorunlu-gereksinimler)
@@ -15,11 +15,11 @@ Bu projede, bir Linux sunucusunun güvenliğini sağlamak ve üzerinde WordPress
 5. [Yol Haritası](#yol-haritası)
 6. [Referanslar & Örnekler](#referanslar--örnekler)
 
-## 🚀 Giriş
+##  Giriş
 
 Bu proje kapsamında, sanal bir makine üzerinde güvenlik politikaları uygulanacak, disk bölümlendirmesi ve servis kurulumları gerçekleştirilecektir. Projenin sonunda, sunucunuz hem güvenli hem de işlevsel bir hale gelmiş olacak.
 
-## 📌 Zorunlu Gereksinimler
+##  Zorunlu Gereksinimler
 
 ### Parola Politikası
 
@@ -71,7 +71,7 @@ Bu proje kapsamında, sanal bir makine üzerinde güvenlik politikaları uygulan
 
   ![img4](img/img4.png)
 
-## ⭐ Bonus Kısım
+##  Bonus Kısım
 
 **Bonuslar sadece zorunlu kısım %100 tamamlanınca değerlendirilir!**
 
@@ -81,7 +81,7 @@ Bu proje kapsamında, sanal bir makine üzerinde güvenlik politikaları uygulan
 
   ![img1](img/img5.png)
 
-## 📦 Teslim ve Değerlendirme
+##  Teslim ve Değerlendirme
 
 - Sadece `signature.txt` dosyası teslim edilmeli. VM dosyası paylaşmak yasak!
 - İmza almak için:
@@ -91,7 +91,7 @@ Bu proje kapsamında, sanal bir makine üzerinde güvenlik politikaları uygulan
 - Savunmada, `signature.txt` ile VM imzası karşılaştırılacak. Farklıysa notunuz **0**.
 - **Snapshot kullanmak kesinlikle yasaktır!** Tespit edilirse notunuz **0** olur.
 
-## 🗺️ Yol Haritası
+##  Yol Haritası
 
 1. **Sistem Kurulumu**
     - Temiz kurulum yap, güncellemeleri uygula.
@@ -119,7 +119,7 @@ Bu proje kapsamında, sanal bir makine üzerinde güvenlik politikaları uygulan
     - VM disk imzasını al, `signature.txt` dosyasına ekle.
     - Son bir kontrol ile snapshot olmadığından emin ol.
 
-## 📚 Referanslar & Örnekler
+##  Referanslar & Örnekler
 
 - [Görsel 1: Monitoring Script Çıktısı](#)  
   ![img1](img/img1.png)
