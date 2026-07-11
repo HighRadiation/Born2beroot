@@ -4,8 +4,6 @@
 
 Bu projede, bir Linux sunucusunun güvenliğini sağlamak ve üzerinde WordPress kurmak için gereken tüm adımlar gerçekleştirilecektir. Parola politikalarından disk bölümlendirmesine, firewall yapılandırmasından bonus servis kurulumlarına kadar tüm süreçler titizlikle ele alınacaktır. Proje sonunda, zorunlu gereksinimler hatasız çalışmalı, bonuslar ise ekstra puan için uygulanabilir olmalıdır.
 
-> **"Sunucunuzun güvenliği, en zayıf halkası kadar güçlüdür."**
-
 ##  İçindekiler
 
 1. [Giriş](#giriş)
